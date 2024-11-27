@@ -1,0 +1,26 @@
+body
+{
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: black;
+}
+.container
+{
+    text-align: center;
+}
+
+.menu
+{
+    background-color: #00329F; 
+}
+
+
+.textosura
+{
+    color: #00329F;
+}
+.fondoamarillo
+{
+    background-color: rgb(225, 229, 0);
+}
+
